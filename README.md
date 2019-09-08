@@ -1,6 +1,8 @@
 # APTOS2019
 No.47 (top2%) Solution for Kaggle APTOS 2019 Blindness Detection
 
+[inference code](https://www.kaggle.com/mikelkl/no-47-top2-solution-stacking-inference)
+
 # General
 This is a not bad solution to get top2% without TTA or coefficient optimization.
 
